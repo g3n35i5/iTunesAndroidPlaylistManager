@@ -1,0 +1,6 @@
+*.db
+__pycache__/
+playlists/*
+!playlists/example.m3u
+*.blob
+*.db
